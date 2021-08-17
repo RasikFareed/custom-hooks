@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/custom-hooks/custom-hooks/custom-hooks/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/custom-hooks/custom-hooks/custom-hooks/static/js/main.0dd14bf7.chunk.js",
-    "main.js.map": "/custom-hooks/custom-hooks/custom-hooks/static/js/main.0dd14bf7.chunk.js.map",
-    "runtime-main.js": "/custom-hooks/custom-hooks/custom-hooks/static/js/runtime-main.3567868d.js",
-    "runtime-main.js.map": "/custom-hooks/custom-hooks/custom-hooks/static/js/runtime-main.3567868d.js.map",
-    "static/js/2.1fdc50b2.chunk.js": "/custom-hooks/custom-hooks/custom-hooks/static/js/2.1fdc50b2.chunk.js",
-    "static/js/2.1fdc50b2.chunk.js.map": "/custom-hooks/custom-hooks/custom-hooks/static/js/2.1fdc50b2.chunk.js.map",
-    "static/js/3.36506dd5.chunk.js": "/custom-hooks/custom-hooks/custom-hooks/static/js/3.36506dd5.chunk.js",
-    "static/js/3.36506dd5.chunk.js.map": "/custom-hooks/custom-hooks/custom-hooks/static/js/3.36506dd5.chunk.js.map",
-    "index.html": "/custom-hooks/custom-hooks/custom-hooks/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/custom-hooks/custom-hooks/custom-hooks/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.1fdc50b2.chunk.js.LICENSE.txt": "/custom-hooks/custom-hooks/custom-hooks/static/js/2.1fdc50b2.chunk.js.LICENSE.txt"
+    "main.css": "/custom-hooks/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/custom-hooks/static/js/main.0dd14bf7.chunk.js",
+    "main.js.map": "/custom-hooks/static/js/main.0dd14bf7.chunk.js.map",
+    "runtime-main.js": "/custom-hooks/static/js/runtime-main.993a71c1.js",
+    "runtime-main.js.map": "/custom-hooks/static/js/runtime-main.993a71c1.js.map",
+    "static/js/2.1fdc50b2.chunk.js": "/custom-hooks/static/js/2.1fdc50b2.chunk.js",
+    "static/js/2.1fdc50b2.chunk.js.map": "/custom-hooks/static/js/2.1fdc50b2.chunk.js.map",
+    "static/js/3.36506dd5.chunk.js": "/custom-hooks/static/js/3.36506dd5.chunk.js",
+    "static/js/3.36506dd5.chunk.js.map": "/custom-hooks/static/js/3.36506dd5.chunk.js.map",
+    "index.html": "/custom-hooks/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/custom-hooks/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1fdc50b2.chunk.js.LICENSE.txt": "/custom-hooks/static/js/2.1fdc50b2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3567868d.js",
+    "static/js/runtime-main.993a71c1.js",
     "static/js/2.1fdc50b2.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.0dd14bf7.chunk.js"
