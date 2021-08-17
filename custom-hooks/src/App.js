@@ -8,7 +8,7 @@ function App() {
 
   useEffect(() => {
     fetch(
-      "http://api.weatherapi.com/v1/forecast.json?key=431d9c8a588a44468ec64119211708&q=Coimbatore&days=1&aqi=no&alerts=no"
+      "https://api.weatherapi.com/v1/forecast.json?key=431d9c8a588a44468ec64119211708&q=Coimbatore&days=1&aqi=no&alerts=no"
     )
       .then((response) => response.json())
       .then((data) => {
